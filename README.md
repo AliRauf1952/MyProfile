@@ -1,11 +1,10 @@
 # MyProfile
-My name and age : **Ali && 29** --hit
+My name and age : **Ali && 29** 
+
+My favourite color : *Blue* 
 
 
-My favourite color : *Blue* --hit
-
-
-My favourite language : ___Hindko___--hit
+My favourite language : ___Hindko___
 
 
 A list of My favourite restaurants : 
